@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="70" updatableVersionMin="" updatableVersionMax="" fileName="CNRMAK_windows_1_0.exe" newVersion="1.0" newMediaFileId="70" fileSize="2796032" bundledJre="" archive="false">
+    <comment language="tr" />
+  </entry>
+</updateDescriptor>

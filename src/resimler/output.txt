@@ -1,0 +1,3 @@
+# List of generated media files. The columns are tab-separated:
+# id | media file type | display name | media file path
+70	windows	Windows	C:\Users\ozkan\Documents\NetBeansProjects\CinarMak\src\resimler\CNRMAK_windows_1_0.exe
